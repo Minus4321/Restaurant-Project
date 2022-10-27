@@ -46,3 +46,6 @@ const AboutUs = () => (
 );
 
 export default AboutUs;
+
+// refer to '.app__bg' in 'App.css' to see
+// bg is styled 
