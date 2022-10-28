@@ -64,7 +64,7 @@
     border-radius: 1px;
     border: none;
     outline: none;
-    cursor: pointer;
+    cursor: not-allowed;
 }
 
 .p__cormorant {
