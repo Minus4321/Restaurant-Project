@@ -23,3 +23,5 @@ const MenuItem = ({ title, price, tags }) => (
 );
 
 export default MenuItem;
+
+// test
